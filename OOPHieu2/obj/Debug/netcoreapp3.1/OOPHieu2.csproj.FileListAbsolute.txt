@@ -1,0 +1,13 @@
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/bin/Debug/netcoreapp3.1/OOPHieu2.deps.json
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/bin/Debug/netcoreapp3.1/OOPHieu2.runtimeconfig.json
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/bin/Debug/netcoreapp3.1/OOPHieu2.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/bin/Debug/netcoreapp3.1/OOPHieu2.dll
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/bin/Debug/netcoreapp3.1/OOPHieu2.pdb
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.dll
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.pdb
+/Users/tringuyen/RiderProjects/OOPHieu2/OOPHieu2/obj/Debug/netcoreapp3.1/OOPHieu2.genruntimeconfig.cache
